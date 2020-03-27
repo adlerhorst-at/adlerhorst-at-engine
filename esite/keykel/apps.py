@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class EventConfig(AppConfig):
+class KeyKelConfig(AppConfig):
     name = 'keykel'
